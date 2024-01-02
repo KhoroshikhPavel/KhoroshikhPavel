@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! I'm Paul, currently a freshman (grade 10/11) in the HSE Lyceum in Moscow, Russia.
+Hi! I'm Paul, currently a freshman (grade 10 out of 11) at the HSE Lyceum in Moscow, Russia.
 
 At the moment I'm learning studying DSA, theoretical CS, math, production-oriented C++, data science and ML
 
 I'm looking to collaborate on any real-world projects in python, C++ or JS.
 
+I'm can be contacted in Russian or in English.
 You can reach me via:
   -email: pikhoroshikh@edu.hse.ru
   -telegram: @khoroshikhpi
