@@ -21,9 +21,10 @@ At the moment I'm learning studying DSA, theoretical CS, math, production-orient
 I'm looking to collaborate on any real-world projects in python, C++ or JS.
 
 I'm can be contacted in Russian or in English.
+
 You can reach me via:
-  -email: pikhoroshikh@edu.hse.ru
-  -telegram: @khoroshikhpi
+* email: pikhoroshikh@edu.hse.ru
+* telegram: @khoroshikhpi
   
 My pronouns are he/him.
 
