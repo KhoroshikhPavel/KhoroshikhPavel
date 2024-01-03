@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hi! I'm Paul, currently a freshman (grade 10 out of 11) at the HSE Lyceum in Moscow, Russia.
 
-At the moment I'm learning studying DSA, theoretical CS, math, production-oriented C++, data science and ML
+At the moment I'm studying DSA, theoretical CS, math, production-oriented C++, data science and ML
 
 I'm looking to collaborate on any real-world projects in python, C++ or JS.
 
