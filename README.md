@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 Hi! I'm Paul, currently a freshman at HSE University.
 
-At the moment I'm studying DSA, math, data science and ML
+At the moment I'm studying DSA, С++, linear algebra and calculus.
 
-I'm looking to collaborate on any real-world projects in ML/DL/DS.
+I aspire to be a AI researcher one day, topics of alignment and safety of LLM's intrigue me the most.
 
 I'm can be contacted in Russian or in English.
 
@@ -27,5 +27,3 @@ You can reach me via:
 * telegram: @pahangood
   
 My pronouns are he/him.
-
-Fun fact: I love calculus!
