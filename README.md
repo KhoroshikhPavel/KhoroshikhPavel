@@ -1,29 +1,25 @@
-### Hi there 👋
+# Hi, I'm Paul
 
-<!--
-**KhoroshikhPavel/KhoroshikhPavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HSE FCS AMI '29.
 
-Here are some ideas to get you started:
+I'm mostly interested in systems programming, modern C++, efficient algorithms, Linux and ML/AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi! I'm Paul, currently a freshman at HSE University.
+I spend a lot of time learning about C++, the tooling around it, experimenting with development environments, and reading about compilers//performance.
 
-At the moment I'm studying DSA, С++, linear algebra and calculus.
+On the ML side, I'm especially interested in LLMs, alignment and interpretability. Even before university I used to work on ML tasks, read paper digests and watched educational content on the topic. 
 
-I aspire to be a AI researcher one day, topics of alignment and safety of LLM's intrigue me the most.
+Currently learning:
 
-I'm can be contacted in Russian or in English.
+* C++20/23
+* algorithms and data structures
+* operating systems and tooling
 
-You can reach me via:
-* email: pikhoroshikh@edu.hse.ru
+Languages:
+
+* Russian
+* English
+
+Contacts:
+
+* email: [pikhoroshikh@edu.hse.ru](mailto:pikhoroshikh@edu.hse.ru)
 * telegram: @pahangood
-  
-My pronouns are he/him.
